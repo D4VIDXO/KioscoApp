@@ -1,0 +1,15 @@
+{
+  "appId": "com.kiosco.app",
+  "appName": "Kiosco",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  }
+}
